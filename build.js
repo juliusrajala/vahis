@@ -14,24 +14,48 @@ function drafts() {
   };
 }
 
-function log() {
-  return function(files, metalsmith, done){
-    setImmediate(done)
+// TODO: Refactor this. Looks disgusting.
+function blogPosts() {
+  return function(files, metalsmith, done) {
+    setImmediate(done);
+    const blogPosts = [];
     Object.keys(files).forEach(function(file){
-      console.log(files[file])
+      const item = files[file];
+      if (item.path.includes('posts')) {
+        const date = new Date(item.stats.atime)
+          .toLocaleDateString('fi-FI', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+          });
+        const blogPost = {
+          title: item.title,
+          draft: item.draft,
+          content: item.contents,
+          time: date,
+        };
+        blogPosts.push(blogPost);
+      }
     });
-  };
+    Object.keys(files).forEach(function(file){
+      const item = files[file];
+      if (files[file].blogPage) {
+        files[file].blogPosts = blogPosts;
+        console.log('item is', files[file]);
+      }
+    });
+  }
 }
 
 metalsmith(__dirname)
   .source('./src/pages/')
   .destination('dist')
   .use(collections({
-    posts: './posts/*.md'
+    posts: '*.md'
   }))
   .use(markdown())
   .use(drafts())
-  .use(log())
+  .use(blogPosts())
   .use(layouts({
     'engine':'handlebars', 
     'directory':'src/layouts',

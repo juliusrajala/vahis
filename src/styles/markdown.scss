@@ -1,0 +1,21 @@
+h1 {
+  @include padding-box;
+  font-family: $sans;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+h2 {
+  @include padding-box;
+  font-family: $sans;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+p {
+  @include padding-box;
+  text-align: justify;
+  font-family: $serif;
+  font-size: 1.3rem;
+  line-height: 1.5;
+}

@@ -1,4 +1,4 @@
-@import './reset';
+@import './styles/reset';
 
 $sans: 'Montserrat', sans-serif;
 $serif: 'Domine', serif;
@@ -20,92 +20,151 @@ $black: #2f2f2f;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
+@import './styles/markdown';
+
 *, all {
   box-sizing: border-box;
 }
 
 html {
-  height: 100%;
+  min-height: 100%;
   color: $black;
 }
 
-body {
+.container {
   @include padding-box(10);
+  max-width: 1600px;
   font-family: $serif;
   display: flex;
   flex-direction: row;
-  height: 100%;
+  min-height: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-h1 {
-  @include padding-box;
-  font-family: $sans;
-  font-weight: 600;
-  font-size: 2rem;
-}
-
-p {
-  @include padding-box;
-  text-align: justify;
-  font-family: $serif;
-  font-size: 1.3rem;
-  line-height: 1.5;
-}
-
-.blog {
-  @include padding-box(4);
+.SideBar {
+  padding-left: $padding-default * 4;
+  padding-right: $padding-default * 4;
   display: flex;
-  flex: 1;
   flex-direction: column;
-  height: 100%;
-  background-color: $light;
-}
-
-.side-bar {
-  display: flex;
   flex: .5;
-  min-width: 300px;
+  min-width: 400px;
   height: 100%;
   text-align: center;
   justify-content: center;
 
-  &__profile {
+  &-profile {
     @include padding-box;
     color: $green;
+    border-bottom: 5px solid $black;
   }
 
-  &__name, &__number {
+  &-name, &-number {
     @include padding-box(4);
+    padding-bottom: 20px;
     font-family: $sans;
     font-size: 2rem;
     display: block;
     font-weight: 600;
   }
 
-  &__number {
+  &-number {
     font-size: 5rem;
     padding: 0;
   }
 
-  &__party {
-    max-width: 300px;
-
+  &-party {
     img {
-      @include padding-box(4);
-      width: 100%;
+      padding-top: 20px;
+      padding-bottom: 40px;
+      width: 250px;
     }
   }
 
-  &__image {
+  &-image {
     text-align: center;
     display: inline-block;
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     overflow: hidden;
 
     img {
       width: 100%;
+    }
+  }
+
+  &-Topics {
+    padding-top: $padding-default * 4;
+    text-align: left;
+    align-items: flex-start;
+
+    li {
+      @include padding-box;
+      font-family: $sans;
+      font-size: 1.1rem;
+      font-weight: 500;
+    }
+  }
+}
+
+.blog {
+  @include padding-box(4);
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 100%;
+  background-color: $light;
+}
+
+.BlogPosts {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.BlogPost {
+  @include padding-box(4);
+  display: flex;
+  flex-direction: column;
+  background-color: $light;
+  margin-bottom: $padding-default * 4;
+
+  &-Title {
+    @include padding-box;
+    font-family: $sans;
+    font-weight: 700;
+    font-size: 2rem;
+  }
+
+  &-Time {
+    @include padding-box;
+    font-family: $sans;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: rgba($black, .5);
+  }
+}
+
+.Navigation {
+  @include padding-box(2);
+  max-width: 1600px;
+  text-align: right;
+  padding-right: 200px;
+  margin-left: auto;
+  margin-right: auto;
+
+  &-Item {
+    @include padding-box(2);
+    display: inline-block;
+    font-size: 1.5rem;
+    font-family: sans;
+    font-weight: 700;
+    color: $black;
+    text-decoration: none;
+
+    &:hover {
+      color: rgba($black, .5);
     }
   }
 }
