@@ -1,12 +1,8 @@
 ---
-title: Second post
+title: Blogikirjoitus jostain aiheesta
 draft: false
 layout: index.html
-topics:
-  - Kellot
-  - Pyörät
-  - Metro
-  - Turku
+topics: Kellot Pyörät Metro Turku
 ---
 
 Bacon ipsum dolor amet We are going to make placeholder text great again. Greater than ever before. An 'extremely credible source' has called my office and told me that Lorem Ipsum's birth certificate is a fraud.

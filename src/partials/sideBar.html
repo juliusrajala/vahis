@@ -1,4 +1,3 @@
-{{#with data}}
 <div class="SideBar">
   <div class="SideBar-profile">
     <span class="SideBar-image"><img src="/assets/profile.jpg"></span>
@@ -6,11 +5,14 @@
     <span class="SideBar-number">216</span>
     <span class="SideBar-party"><img src="/assets/vihreat.png"></span>
   </div>
+  {{#with topics as |topicList|}}
   <div class="SideBar-Topics">
-    <h2>Teemat:</h2>
+    <h2 class="SideBar-TopicHeader">Kirjoitukset aiheittain:</h2>
     <ul>
-      <li>Aihe 1</li>
+      {{#each topicList as |topic|}}
+      <li class="SideBar-Topic" data-topic={{topic}}>{{topic}}</li>
+      {{/each}}
     </ul>
   </div>
+  {{/with}}
 </div>
-{{/with}}

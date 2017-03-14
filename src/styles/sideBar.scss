@@ -1,0 +1,88 @@
+.SideBar {
+  padding-left: $padding-default * 4;
+  padding-right: $padding-default * 4;
+  display: flex;
+  flex-direction: column;
+  flex: .5;
+  min-width: 400px;
+  height: 100%;
+  text-align: center;
+  justify-content: center;
+
+  &-profile {
+    @include padding-box;
+    color: $black;
+  }
+
+  &-name, &-number {
+    @include padding-box(4);
+    padding-bottom: 20px;
+    font-family: $sans;
+    font-size: 2rem;
+    display: block;
+    font-weight: 600;
+  }
+
+  &-number {
+    font-size: 5rem;
+    font-weight: 700;
+    padding: 0;
+  }
+
+  &-party {
+    img {
+      padding-top: 20px;
+      padding-bottom: 40px;
+      width: 250px;
+    }
+  }
+
+  &-image {
+    text-align: center;
+    display: inline-block;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  &-TopicHeader {
+    color: $black-54;
+  }
+
+  &-Topics {
+    border-top: 5px solid $black;
+    padding-top: $padding-default * 4;
+    align-items: flex-start;
+
+    ul {
+      @include padding-box;
+      font-family: $sans;
+      font-size: 1.2rem;
+      text-align: center;
+    }
+  }
+}
+
+.SideBar-Topic {
+  @include padding-box;
+  display: inline-block;
+  font-weight: 600;
+  cursor: pointer;
+
+  &:hover {
+    color: $green;
+  }
+
+  &--Active {
+    color: $green;
+
+    &:hover {
+      color: $black-54;
+    }
+  }
+}

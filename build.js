@@ -14,11 +14,13 @@ function drafts() {
   };
 }
 
-// TODO: Refactor this. Looks disgusting.
+// Gathers up blog-posts and writes them tto the blogpage.
+// TODO: Refactor this at some point, looks a tad nasty.
 function blogPosts() {
   return function(files, metalsmith, done) {
     setImmediate(done);
-    const blogPosts = [];
+    let blogPosts = [];
+    let topics = []; 
     Object.keys(files).forEach(function(file){
       const item = files[file];
       if (item.path.includes('posts')) {
@@ -28,20 +30,29 @@ function blogPosts() {
             month: 'long',
             day: 'numeric',
           });
+
+        const postTopics = item.topics.split(' ');
+        postTopics && postTopics.map(topic => {
+          if(topics.indexOf(topic) === -1) {
+            topics.push(topic);
+          }
+        });
+
         const blogPost = {
           title: item.title,
-          draft: item.draft,
           content: item.contents,
           time: date,
+          topics: postTopics,
         };
-        blogPosts.push(blogPost);
+
+        blogPost && blogPosts.push(blogPost);
       }
     });
     Object.keys(files).forEach(function(file){
       const item = files[file];
       if (files[file].blogPage) {
         files[file].blogPosts = blogPosts;
-        console.log('item is', files[file]);
+        files[file].topics = topics;
       }
     });
   }

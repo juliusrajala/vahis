@@ -2,11 +2,7 @@
 title: Hello
 draft: false
 layout: index.html
-topics:
-  - Kellot
-  - Kissat
-  - Autoilu
-  - Jotain
+topics: Kellot Kissat Autoilu Jotain
 ---
 
 Bacon ipsum dolor amet It’s about making placeholder text great again. That’s what people want, they want placeholder text to be great again. Does everybody know that pig named Lorem Ipsum? She's a disgusting pig, right?

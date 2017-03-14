@@ -8,6 +8,7 @@ $padding-default: 10px;
 $green: #61BF1A;
 $light: #FAFAF5;
 $black: #2f2f2f;
+$black-54: rgba(#2f2f2f, .54);
 
 @mixin padding-box($multiplier: 1) {
   padding: $multiplier * $padding-default;
@@ -21,6 +22,7 @@ $black: #2f2f2f;
 }
 
 @import './styles/markdown';
+@import './styles/sideBar';
 
 *, all {
   box-sizing: border-box;
@@ -42,72 +44,6 @@ html {
   margin-right: auto;
 }
 
-.SideBar {
-  padding-left: $padding-default * 4;
-  padding-right: $padding-default * 4;
-  display: flex;
-  flex-direction: column;
-  flex: .5;
-  min-width: 400px;
-  height: 100%;
-  text-align: center;
-  justify-content: center;
-
-  &-profile {
-    @include padding-box;
-    color: $green;
-    border-bottom: 5px solid $black;
-  }
-
-  &-name, &-number {
-    @include padding-box(4);
-    padding-bottom: 20px;
-    font-family: $sans;
-    font-size: 2rem;
-    display: block;
-    font-weight: 600;
-  }
-
-  &-number {
-    font-size: 5rem;
-    padding: 0;
-  }
-
-  &-party {
-    img {
-      padding-top: 20px;
-      padding-bottom: 40px;
-      width: 250px;
-    }
-  }
-
-  &-image {
-    text-align: center;
-    display: inline-block;
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
-    overflow: hidden;
-
-    img {
-      width: 100%;
-    }
-  }
-
-  &-Topics {
-    padding-top: $padding-default * 4;
-    text-align: left;
-    align-items: flex-start;
-
-    li {
-      @include padding-box;
-      font-family: $sans;
-      font-size: 1.1rem;
-      font-weight: 500;
-    }
-  }
-}
-
 .blog {
   @include padding-box(4);
   display: flex;
@@ -121,6 +57,22 @@ html {
   display: flex;
   flex: 1;
   flex-direction: column;
+  position: relative;
+
+  &-ActiveFilter {
+    display: none;
+    position: absolute;
+    top: $padding-default * -4;
+    left: $padding-default * 4;
+    font-size: 1.3rem;
+    font-weight: 900;
+    font-family: $sans;
+    color: $black-54;
+
+    &--Active {
+      display: block;
+    }
+  }
 }
 
 .BlogPost {
@@ -129,6 +81,10 @@ html {
   flex-direction: column;
   background-color: $light;
   margin-bottom: $padding-default * 4;
+
+  &--Hidden {
+    display: none;
+  }
 
   &-Title {
     @include padding-box;
@@ -142,7 +98,28 @@ html {
     font-family: $sans;
     font-weight: 600;
     font-size: 1.5rem;
-    color: rgba($black, .5);
+    color: $black-54;
+  }
+
+  &-Topics {
+    border-top: 2px solid $black-54;
+  }
+
+  &-Topic {
+    @include padding-box;
+    display: inline-block;
+    font-family: $sans;
+    font-size: 1rem;
+    font-weight: 600;
+  }
+
+  &-TopicHeader {
+    padding-left: $padding-default;
+    padding-top: $padding-default * 3;
+    font-family: $sans;
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: $black-54;
   }
 }
 
@@ -164,7 +141,7 @@ html {
     text-decoration: none;
 
     &:hover {
-      color: rgba($black, .5);
+      color: $green;
     }
   }
 }

@@ -10,11 +10,14 @@
   {{> navigation}}
   <div class="container">
     <section class="BlogPosts">
+      <span class="BlogPosts-ActiveFilter">
+        Näytetään kirjoitukset aiheesta: Jotain
+      </span>
     {{#each blogPosts as |blogPost|}}
       {{> blogPost data=blogPost}}
     {{/each}}
     </section>
-    {{> sideBar data=true}}
+    {{> sideBar topics=topics}}
   </div>
   <script type="text/javascript" src="bundle.min.js"></script>
 </body>
