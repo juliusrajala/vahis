@@ -17,9 +17,10 @@ mahdollistavat ohjelmakoodin levittämisen ja muokkaamisen tiettyjen rajoitusten
 Yleisimmin tämä tarkoittaa sitä, että ohjelmiston lähdekoodi on tutkittavissa esimerkiksi
 jossakin lähdekoodin jakamiseen keskittyvässä palvelussa, kuten [Githubissa](http://www.github.com).
 
-
-
 ## Miksi ajan avointa lähdekoodia?
+
+- Hintalaatusuhde
+- Turvallisuus
 
 ## Esimerkkejä avoimesta lähdekoodista
 
