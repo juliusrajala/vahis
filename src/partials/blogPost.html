@@ -1,5 +1,5 @@
 {{#with data as |post|}}
-<div class="BlogPost" data-topics={{post.topics}}>
+<div class="BlogPost" id={{slugify post.title}} data-topics={{post.topics}}>
   <h1 class="BlogPost-Title">{{post.title}}</h1>
   <h3 class="BlogPost-Time">{{post.time}}</h3>
   {{{post.content}}}

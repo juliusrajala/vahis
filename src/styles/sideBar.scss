@@ -86,6 +86,20 @@
       text-align: center;
     }
   }
+
+  @media (max-width: 1000px), (max-device-width: 1000px) {
+    padding-bottom: $padding-default * 10;
+
+    .SideBar-Topics {
+      border-bottom: 5px solid $black;
+      padding-bottom: $padding-default * 4;
+    }
+
+    .SideBar-image {
+      width: 300px;
+      height: 300px;
+    }
+  }
 }
 
 .SideBar-Topic {

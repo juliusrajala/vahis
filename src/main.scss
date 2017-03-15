@@ -42,6 +42,23 @@ html {
   min-height: 100%;
   margin-left: auto;
   margin-right: auto;
+
+  @media (max-width: 1200px), (max-device-width: 1200px) {
+    padding-left: $padding-default;
+    padding-right: $padding-default;
+  }
+
+  @media (max-width: 1000px), (max-device-width: 1000px) {
+    @include padding-box(10);
+    padding-top: $padding-default;
+    flex-direction: column-reverse;
+  }
+
+  @media (max-width: 750px), (max-device-width: 750px) {
+    padding-left: $padding-default;
+    padding-right: $padding-default;
+  }
+
 }
 
 .Page {
@@ -145,5 +162,9 @@ html {
     &:hover {
       color: $green;
     }
+  }
+
+  @media (max-width: 1200px), (max-device-width: 1200px) {
+    padding-right: 10px;
   }
 }

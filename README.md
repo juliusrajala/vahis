@@ -1,17 +1,21 @@
-# Static site template
+# Static blog template
 
-This is a static website generator setup built for crafting simple website projects.
+This blog was built for Matti Vähä-Heikkilä to use in his municipal elections campaign.
+Matti promotes open source software in the public sector, and as such, has decided to release his blog
+under the MIT License.
 
-The generator uses markdown and handlebars to produce html-files using metalsmith. Each markdown-file should contain a header linking it to the desired layout-file. Check out src/index.md and src/layout/index.html for reference.
+Any code found in this Github-repository is free to be used and distributed as desired. If you find issues 
+with the website in this repository, feel free to open an issue, or if you're the programming
+type and wish to provide us a fix yourself, open a pull request! We appreciate any feedback.
 
-## Usage
-- Place html layouts for pages into src/layouts
-- Scss anywhere under src/ as per preference.
-- The build scripts should now enable using es6 syntax in javascript, output will be uglified.
+## Playing around
 
-## Running:
-You need nodejs to get the build running smoothly. After the project has been build, dist can be served via any http-server. The start-script of this repo also starts a http-server that serves the files from dist.
+If you're interested in playing around with the platform yourself, you'll need nodeJS.
 
-- npm install: Installs dependencies
-- npm start: Starts http-server and runs the build scripts
-- Navigate to localhost:8080
+- After installing nodeJS navigate to the repository on a command line.
+- Run the command ```npm install``` this will install the required dependencies to run this.
+- Wait for the installation of dependencies to finish. Don't worry, these will only be installed into this folder.
+- Run the command ```npm start``` which will run the program.
+- Open a web-browser and navigate to the address http://localhost:8080.
+
+## License
