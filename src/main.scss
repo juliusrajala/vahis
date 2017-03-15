@@ -44,9 +44,10 @@ html {
   margin-right: auto;
 }
 
-.blog {
+.Page {
   @include padding-box(4);
   display: flex;
+  max-width: 1000px;
   flex-direction: column;
   flex: 1;
   min-height: 100%;
@@ -54,6 +55,7 @@ html {
 }
 
 .BlogPosts {
+  max-width: 1000px;
   display: flex;
   flex: 1;
   flex-direction: column;

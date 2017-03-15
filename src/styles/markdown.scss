@@ -1,21 +1,60 @@
-h1 {
-  @include padding-box;
-  font-family: $sans;
-  font-weight: 700;
-  font-size: 2rem;
-}
 
-h2 {
-  @include padding-box;
-  font-family: $sans;
-  font-weight: 600;
-  font-size: 1.5rem;
-}
-
-p {
-  @include padding-box;
-  text-align: justify;
-  font-family: $serif;
-  font-size: 1.3rem;
+.BlogPost, .Page {
   line-height: 1.5;
+  h1 {
+    @include padding-box;
+    font-family: $sans;
+    font-weight: 700;
+    font-size: 2rem;
+  }
+
+  h2 {
+    @include padding-box;
+    font-family: $sans;
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    @include padding-box;
+    font-family: $sans;
+    font-weight: 600;
+    font-size: 1.3rem;
+  }
+
+  img {
+    @include material-shadow;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  ul {
+    list-style: initial;
+    padding-left: $padding-default * 4;
+  }
+
+  li {
+    font-family: $sans;
+    font-weight: 500;
+  }
+
+  p {
+    @include padding-box;
+    text-align: justify;
+    font-family: $serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+}
+
+.BlogPost-ImageContainer {
+  @include padding-box;
+  width: 100%;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+  }
 }
