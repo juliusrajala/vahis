@@ -2,6 +2,7 @@
 title: Avoin lähdekoodi auttaa sinua
 draft: false
 topics: digitalisaatio lähdekoodi
+dateString: '17.3.2017'
 ---
 
 Digitalisaatiota on vaikea välttää tänäpäivänä millään elämän osa-alueella.
