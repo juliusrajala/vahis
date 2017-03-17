@@ -1,6 +1,6 @@
 ---
 title: Avoin lähdekoodi auttaa sinua
-draft: false
+draft: true
 topics: digitalisaatio lähdekoodi
 dateString: '17.3.2017'
 ---

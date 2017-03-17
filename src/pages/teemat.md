@@ -4,10 +4,4 @@ draft: false
 layout: page.html
 ---
 
-# Teemani kuntavaaleissa
-
-## Digitalisaatio
-
-## Pyöräily
-
-## JNE.
+# Tulossa pian
