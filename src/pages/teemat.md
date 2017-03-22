@@ -15,8 +15,8 @@ layout: page.html
 ### Korkeakoulutettujen työllistyminen Turkuun
 
 - Yrityksille kannustavan ilmapiirin rakentaminen opiskelijoiden ja vastavalmistuneiden työllistämiseksi.
- - Turun kaupunki voisi houkutella yrityksiä perustamaan sivukonttoreita tai kokonaan uutta yritystoimintaa esimerkiksi asianmukaisia tiloja tarjoamalla laajemmin.
- - Turun alueen teknilllisen koulutuksen kehittäminen ja laajentaminen tukee koko Varsinais-Suomen teollisuutta ja luo työpaikkoja merkittävästi myös muille kuin teknillisille aloille.
+- Turun kaupunki voisi houkutella yrityksiä perustamaan sivukonttoreita tai kokonaan uutta yritystoimintaa esimerkiksi asianmukaisia tiloja tarjoamalla laajemmin.
+- Turun alueen teknilllisen koulutuksen kehittäminen ja laajentaminen tukee koko Varsinais-Suomen teollisuutta ja luo työpaikkoja merkittävästi myös muille kuin teknillisille aloille.
 
 ### Itäharjun ja Kupittaan alueen kehittäminen
 
