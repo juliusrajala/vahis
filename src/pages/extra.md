@@ -4,7 +4,32 @@ draft: false
 layout: page.html
 ---
 
-# Matti Vähä-Heikkilä - 216
+# Uuden kirjoituksen lisääminen
+
+Sivut löytyvät kansiosta src/pages.
+
+Blogikirjoitukset löytyvät kansiosta src/pages/posts.
+
+Kun kirjoitat uuden blogikirjoituksen, lisää sen yläreunaan ns front-matter.
+
+## Esimerkki
+```
+  title: Otsikko
+  draft: false
+  dateString: 1.1.2018
+```
+
+- title kirjoitetaan blogpostauksen otsikoksi.
+- draft määrittelee mikäli kirjoitus näytetään sivulla. Kun draft on false, on kirjoitus näkyvissä.
+- dateStringiä käytetään kirjoituksen julkaisupäivän määrittelemiseen. Sen tulisi seurata muotoa dd.mm.yyyy.
+
+Kun olet kirjoittanut kirjoituksesi ja olet siihen tyytyväinen, tallenna kirjoitus githubissa. Heroku noutaa automaattisesti master-branchin uusimman julkaisun ja rakentaa sivun uusiksi.
+
+---
+# Esimerkkejä eri tyyleistä
+
+
+# H1 Otsikko
 
 ## H2 Otsikko
 
@@ -28,7 +53,3 @@ Bacon ipsum dolor amet It’s about making placeholder text great again. That’
 - Lista elementti 3
 
 I think the only card she has is the Lorem card. I write the best placeholder text, and I'm the biggest developer on the web by far... While that's mock-ups and this is politics, are they really so different? He’s not a word hero. He’s a word hero because he was captured. I like text that wasn’t captured.
-
-## H2 Otsikko
-
-Neljäs sivu.
