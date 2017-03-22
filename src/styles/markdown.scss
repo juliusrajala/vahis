@@ -47,6 +47,10 @@
     font-size: 1.2rem;
     line-height: 1.5;
   }
+
+  code {
+    @include padding-box(2);
+  }
 }
 
 .BlogPost-ImageContainer {
