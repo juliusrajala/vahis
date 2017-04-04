@@ -1,9 +1,11 @@
 ---
-title: Sivut tulossa pian
+title: Mimmonen homma?
 draft: false
 layout: index.html
-topics: eka blogi kirjoitus
-dateString: '17.3.2017'
+topics: 
+dateString: '4.4.2017'
 ---
 
-Tervetuloa Matti Vähä-Heikkilän nettisivuille. Näille sivuille tulen päivittelemään kampanjan aikana kirjoituksia mielipiteistäni ja vaaliteemoistani.
+Olen ehdolla Turun kuntavaaleissa. Ennakkoäänestys sulkeutuu juuri tätä kirjoittaessa, mutta varsinainen vaalipäivä on vielä edessä ensi sunnuntaina. Toimin tällä hetkellä Turun yliopiston TEK-tutkijat ry:n puheenjohtajana, Turun yliopiston ylioppilaskunnan Hybridiaani-edustajistoryhmän ryhmäpuheenjohtajana, TYYn uusia tiloja selvittävän työryhmän puheenjohtajana ja Tekniikan akateemiset TEKin yliopistovaliokunnan jäsenenä. Oman muistin tueksi olen kirjaillut järjestöpuuhailujani rakkaan oman ainejärjestöni, Digit ry:n, wiki-sivulle: http://wiki.digit.fi/Matti_V%C3%A4h%C3%A4-Heikkil%C3%A4
+
+Kokemusta eri areenoilta löytyy; onko seuraavana Turun kaupunginvaltuusto?
