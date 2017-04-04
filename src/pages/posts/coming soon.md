@@ -2,7 +2,7 @@
 title: Mimmonen homma?
 draft: false
 layout: index.html
-topics: 
+topics: ehdolla
 dateString: '4.4.2017'
 ---
 
