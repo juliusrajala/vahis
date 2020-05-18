@@ -1,20 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta lang="fi">
-  <title>{{title}}</title>
-  <link href="https://fonts.googleapis.com/css?family=Domine|Montserrat:400,500,600,700" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/styles.css"/>
-</head>
-<body>
-  {{> navigation}}
-  <div class="container">
-    <section class="Page">
-    {{{contents}}}
-    </section>
-    {{> sideBar}}
-  </div>
-  <script type="text/javascript" src="bundle.min.js"></script>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta lang="fi" />
+    <title>{{title}}</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif&family=Source+Sans+Pro:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  </head>
+  <body>
+    {{> navigation}}
+    <div class="container">
+      <section class="Page">
+        <div class="BlogPost">
+          {{{contents}}}
+        </div>
+      </section>
+      {{> sideBar}}
+    </div>
+    <script type="text/javascript" src="bundle.min.js"></script>
+  </body>
 </html>

@@ -1,30 +1,31 @@
-@import './styles/reset';
+@import "./styles/reset";
 
-$sans: 'Montserrat', sans-serif;
-$serif: 'Domine', serif;
+$sans: "Source Sans Pro", sans-serif;
+$serif: "Noto Serif", serif;
 
 $padding-default: 10px;
 
-$green: #61BF1A;
-$light: #FAFAF5;
+$green: #61bf1a;
+$light: #c8d6e5;
 $black: #2f2f2f;
-$black-54: rgba(#2f2f2f, .54);
+$black-54: rgba(#2f2f2f, 0.84);
 
 @mixin padding-box($multiplier: 1) {
   padding: $multiplier * $padding-default;
 }
 
-
-@mixin material-shadow ($size: 1) {
-  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+@mixin material-shadow($size: 1) {
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12),
+    0 1px 2px rgba(0, 0, 0, 0.24);
+  -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 
-@import './styles/markdown';
-@import './styles/sideBar';
+@import "./styles/markdown";
+@import "./styles/sideBar";
 
-*, all {
+*,
+all {
   box-sizing: border-box;
 }
 
@@ -58,13 +59,12 @@ html {
     padding-left: $padding-default;
     padding-right: $padding-default;
   }
-
 }
 
 .Page {
-  @include padding-box(4);
   display: flex;
   max-width: 1000px;
+  border-radius: 4px;
   flex-direction: column;
   flex: 1;
   min-height: 100%;
@@ -77,6 +77,7 @@ html {
   flex: 1;
   flex-direction: column;
   position: relative;
+  border-radius: 4px;
 
   &-ActiveFilter {
     display: none;
@@ -93,9 +94,17 @@ html {
     }
   }
 }
+h3.BlogPost-Time {
+  padding: 0 $padding-default 20px;
+  font-family: $sans;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: $black-54;
+}
 
 .BlogPost {
   @include padding-box(4);
+  border-radius: 4px;
   display: flex;
   flex-direction: column;
   background-color: $light;
@@ -106,18 +115,10 @@ html {
   }
 
   &-Title {
-    @include padding-box;
+    padding: 0 $padding-default;
     font-family: $sans;
     font-weight: 700;
     font-size: 2rem;
-  }
-
-  &-Time {
-    @include padding-box;
-    font-family: $sans;
-    font-weight: 600;
-    font-size: 1.5rem;
-    color: $black-54;
   }
 
   &-Topics {

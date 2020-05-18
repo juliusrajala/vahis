@@ -3,7 +3,7 @@
   padding-right: $padding-default * 4;
   display: flex;
   flex-direction: column;
-  flex: .5;
+  flex: 0.5;
   min-width: 400px;
   height: 100%;
   text-align: center;
@@ -14,7 +14,8 @@
     color: $black;
   }
 
-  &-Name, &-number {
+  &-Name,
+  &-number {
     @include padding-box(4);
     padding-bottom: 20px;
     font-family: $sans;
@@ -61,6 +62,7 @@
     width: 200px;
     height: 200px;
     overflow: hidden;
+    background: #fff;
 
     img {
       width: 100%;

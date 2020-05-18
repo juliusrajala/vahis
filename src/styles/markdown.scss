@@ -1,6 +1,6 @@
+.BlogPost {
+  line-height: 1;
 
-.BlogPost, .Page {
-  line-height: 1.5;
   h1 {
     @include padding-box;
     font-family: $sans;
@@ -16,7 +16,7 @@
   }
 
   h3 {
-    @include padding-box;
+    padding: 30px 10px 10px 10px;
     font-family: $sans;
     font-weight: 600;
     font-size: 1.3rem;
@@ -36,13 +36,15 @@
   }
 
   li {
+    line-height: 1.5;
     font-family: $sans;
     font-weight: 500;
+    font-size: 1.2rem;
   }
 
   p {
     @include padding-box;
-    text-align: justify;
+    text-align: left;
     font-family: $serif;
     font-size: 1.2rem;
     line-height: 1.5;
