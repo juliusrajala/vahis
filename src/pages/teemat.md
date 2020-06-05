@@ -4,7 +4,7 @@ draft: false
 layout: page.html
 ---
 
-# Vaaliteemat
+# Teemat
 
 ### Paras opiskelijakaupunki
  
@@ -29,5 +29,5 @@ layout: page.html
 ### Lopetetaan digitalisaation hokeminen ja toteutetaan sitä
 
 - Käytetään edes puolet sanan toisteluun kuluvasta ajasta itse tekemiseen
-- Avointa dataa on saatavilla, mutta Turussa sitä hyödynnetään toistaiseksi vähän
+- Avointa dataa on saatavilla, mutta Turussa sitä hyödynnetään toistaiseksi vähän. Jatkuvasti kuitenkin enemmän!
 - Digitalisaation kanssa käsikädessä voidaan mielestäni toteuttaa ennakkoluulottomasti kokeilukulttuuria ja arvioida saavutettuja tuloksia
