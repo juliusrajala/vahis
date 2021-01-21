@@ -20,9 +20,10 @@ Turku näyttäytyy minulle ensisijaisesti opiskelijakaupunkina, kun sellaisena s
 
 Kaupungissa pitää viihtyä, vaikka kaupunkia rakennettaisiin tiiviimmäksi ja enemmän kaupunkimaiseksi. Lähiluonto ja viihtyisä, vihreämpi kaupunkikuva tulee olla läsnä joka puolella. Turussa pitää päästä paikasta toiseen kaikilla kulkumuodoilla. Ei saa unohtaa jalankulkijoita, pyöräilijöitä ja kehittyvää joukkoliikennettä. Vaikka kattava pyörätieverkko Turussa vaatii vielä paljon kehitystä ja kävelykeskustakin voisi laajentua, on samalla muistettava, että osa kaupunkilaisista ei pärjää ilman omaa autoa ja heillekin täytyy kulkeminen olla mahdollisimman sujuvaa.
 
-### Turkuun helposti
-
 On selvää, että tunnin junan edistämiseen laitetaan kaikki sen vaatimat panokset. Olen yhdistänyt Helsinki-keskeiset työt kahden vuoden ajan, mutta useimmille kahden tunnin yhdensuuntainen junamatka ei ole mielekäs vaihtoehto. Yhä useampi voisi asua kauniissa Turussa ja työskennellä pk-seudulla nopeamman junan ansiosta. Toki etätyöt mahdollistavat tätä jo koko ajan enemmän.
+
+### Turku on hyvinvoinnin ja tasa-arvon kaupunki
+Turkulaisten hyvinvointi on tärkeää. Sote-uudistus puhuttaa paljon, mutta on tärkeää huolehtia turkulaisten terveydestä ja hyvinvoinnista murroskauden aikana ennen kuin hyvinvointialueet ottavat tämän vastuulleen. Mielenterveyspalvelut tarvitsevat lisää resursseja, jotta ihan jokaisella olisi hyvä olla. Turku voisi olla myös tasa-arvon ja yhdenvertaisuuden mallikaupunki. Kaupunki näyttäytyy hyvänä työnantajana, jos rekrytoinnit suoritetaan anonyymina koko organisaatiossa.
 
 ### Turussa data hyötykäyttöön
 
