@@ -1,9 +1,9 @@
-  ---
-  title: Olen ehdolla jatkokaudelle Turun kaupunginvaltuustoon
-  draft: false
-  layout: index.html
-  topics: ehdolla
-  dateString: 7.1.2021
+---
+title: Olen ehdolla jatkokaudelle Turun kaupunginvaltuustoon
+draft: false
+layout: index.html
+topics: ehdolla
+dateString: '7.1.2021'
 ---
 
 Tammikuussa 2017 lomaillessani päätin, että tavoittelen paikkaa Turun kaupunginvaltuustossa huhtikuun vaaleissa. Tuo tuntui hyvältä jatkumolta vuosia jatkuneeseen vaikuttamistyöhön. Starttasin heti Turun kaupunkikehitykseen ja kaupungin päätöksentekoon syventymisen. Halusin tietää, mihin olen ryhtymässä tai pyrkimässä. Halusin olla pätevä ehdokas.
