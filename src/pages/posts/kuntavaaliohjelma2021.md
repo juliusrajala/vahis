@@ -10,4 +10,5 @@ Turun vihreiden kuntavaaliohjelma uunista ulos! Huhtikuun kuntavaaleissa me täh
 
 Kuntavaaliohjelma esittää mm. kestävää taloutta, panostamista ennaltaehkäiseviin palveluihin, esteettömiä lähiluontokohteita, saariston tuomista turkulaisten ulottuville, terveiden opiskelutilojen varmistamista ja elävän kaupunkikulttuurin tukemista.
 
-https://www.turunvihreat.fi/turun-vihreiden-vaaliohjelma-julkaistu/
+[Turun vihreiden vaaliohjelma on julkaistu](https://www.turunvihreat.fi/turun-vihreiden-vaaliohjelma-julkaistu/)
+
