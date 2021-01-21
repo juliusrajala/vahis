@@ -13,10 +13,15 @@ Blogikirjoitukset löytyvät kansiosta src/pages/posts.
 Kun kirjoitat uuden blogikirjoituksen, lisää sen yläreunaan ns front-matter.
 
 ## Esimerkki
-```
-  title: Otsikko
-  draft: false
-  dateString: 1.1.2018
+
+```yaml
+---
+title: Mimmonen homma?
+draft: false
+layout: index.html
+topics: ehdolla
+dateString: '4.4.2017'
+---
 ```
 
 - title kirjoitetaan blogpostauksen otsikoksi.
