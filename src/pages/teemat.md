@@ -12,7 +12,7 @@ Kuntavaalit käydään huhtikuussa 2021 ja haluan jatkokaudelle kaupunginvaltuut
 
 Haluan tehdä Turusta enemmän kaupungin. Tulevaisuuden Turkuun kuuluu tietenkin fiksumpi rakentaminen, toimiva liikenne ja panostaminen ainutlaatuiseen tiede-, teknologia- ja korkeakouluyhteisöön. Koko kaupunkia voitaisiin kehittää tältä pohjalta ja varmistaa, että tänne on hyvä tulla opiskelemaan ja vakiintua opiskelujen jälkeen.
 
-### Turku on opiskelijakaupunki
+### Turku on opiskelija- ja korkeakoulukaupunki
 
 Turku näyttäytyy minulle ensisijaisesti opiskelijakaupunkina, kun sellaisena se on minuun tehnyt lähtemättömän vaikutuksen. Ihastuin Turkuun ja turkulaisiin - niin tänne muualta muuttaviin kuin paljasjalkaisiin. Opiskelijat ja korkeakouluyhteisö on valloittava. Tuo yhteisö voisi valloittaa vähän lisääkin Turkua, eikö? Olin itse ensin opiskelija ja sittemmin Turun yliopiston työntekijä noin 5 vuotta. Tällä on pysyvä paikka sydämessäni ja päätöksenteossani. Vain koulutukseen, tieteeseen ja teknologiaan panostamalla kaupunki menestyy.
 
