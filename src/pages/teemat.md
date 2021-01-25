@@ -36,4 +36,5 @@ Turun talous on toistuvasti uutisissa -- eikä valitettavasti hyvässä sävyss�
 
 Turkulaisten hyvinvointi on tärkeää. Sote-uudistus puhuttaa paljon, mutta on tärkeää huolehtia turkulaisten terveydestä ja hyvinvoinnista murroskauden aikana jo ennen kuin hyvinvointialueet ottavat tämän vastuulleen. Mielenterveyspalvelut tarvitsevat lisää resursseja, jotta ihan jokaisella olisi hyvä olla. Turun pitää olla myös tasa-arvon ja yhdenvertaisuuden mallikaupunki. Kaupunki näyttäytyy hyvänä työnantajana, jos rekrytoinnit suoritetaan anonyymina koko organisaatiossa.
 
-#### Tehdään Turusta kiva paikka asua ja olla. Neljä vuotta työtä kaupunginvaltuutettuna on jo antanut ja opettanut paljon, mutta jatkossa olen entistä valmiimpi ja osaavampi tähän työhön. Väsymätön ja pitkäjänteinen työ jatkukoon, siihen olen valmis.
+
+### Tehdään Turusta kiva paikka asua ja olla. Neljä vuotta työtä kaupunginvaltuutettuna on jo antanut ja opettanut paljon, mutta jatkossa olen entistä valmiimpi ja osaavampi tähän työhön. Väsymätön ja pitkäjänteinen työ jatkukoon, siihen olen valmis.
