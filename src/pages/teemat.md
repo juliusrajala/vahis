@@ -32,7 +32,7 @@ Haluan, että kaupunkikehityksessä ja sen päätöksenteossa hyödynnetään ti
 
 Turun talous on toistuvasti uutisissa -- eikä valitettavasti hyvässä sävyssä. Kaupungin talous on saatava kestävälle pohjalle, sillä jatkuva velkaantuminen on toistunut vuodesta toiseen. Kaupunkikehityksen kautta ei ole saatavissa pikavoittoja, mutta fiksuilla toimilla tilanne on korjattavissa. Fiksu kaupunkikehitys lisää kaupungin tuloja. Investointeja tarvitaan ja niitä pitääkin tehdä lainarahalla, mutta velkaa ei tule ottaa juokseviin kuluihin.
 
-### 6. Ja ehdottomasti: Turku on hyvinvoinnin ja tasa-arvon kaupunkin
+### 6. Ja ehdottomasti: Turku on hyvinvoinnin ja tasa-arvon kaupunki
 
 Turkulaisten hyvinvointi on tärkeää. Sote-uudistus puhuttaa paljon, mutta on tärkeää huolehtia turkulaisten terveydestä ja hyvinvoinnista murroskauden aikana jo ennen kuin hyvinvointialueet ottavat tämän vastuulleen. Mielenterveyspalvelut tarvitsevat lisää resursseja, jotta ihan jokaisella olisi hyvä olla. Turun pitää olla myös tasa-arvon ja yhdenvertaisuuden mallikaupunki. Kaupunki näyttäytyy hyvänä työnantajana, jos rekrytoinnit suoritetaan anonyymina koko organisaatiossa.
 
