@@ -13,5 +13,5 @@ Lisäksi huomautettiin, että uusi Aurum-rakennus avautuu käyttöön tämän vu
 
 Näiden lisäksi Itäisen pitkäkadun suunniteltuja pyöräväyliä tulisi saada vauhdilla kuntoon.
 
-[Tsekkaa valtuustoaloite ja perustelut tästä](https://www.turku.fi/.../kaupunginvalt.../aloite/hae/1924307)
+[Tsekkaa valtuustoaloite ja perustelut tästä](https://www.turku.fi/paatoksenteko/kaupunginvaltuusto/aloite/hae/1924307)
 
