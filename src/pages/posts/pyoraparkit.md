@@ -12,7 +12,9 @@ Löysin mielenkiintoista avointa dataa pyöräparkeista/-telineistä ja pyörien
 Näistäkin huomataan, että etenkin keskusta-alueella pyörille ei ole riittävästi telineitä!
 
 🚴‍ Pyöräilyn edellytyksiä olisi parannettava, jotta yhä enemmän pyöriä käytettäisiin kulkemiseen. 
-🚴‍ Pyörät varmasti haluttaisiin lukita telineisiin esim. rungosta. Pyörä on tallella ja ehjänä pystyssä. 
+
+🚴‍ Pyörät varmasti haluttaisiin lukita telineisiin esim. rungosta. Pyörä on tallella ja ehjänä pystyssä.
+
 🚴‍ Pyörät "siellä täällä" jalkakäytäville jätettyinä voivat olla esteenä esimerkiksi näkövammaisille tai pyörätuolilla kulkeville.
 
 Plottasin kaksi datasettiä OpenStreetMapin pohjalle QGIS-sovelluksella:
