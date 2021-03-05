@@ -7,7 +7,7 @@ dateString: '5.3.2021'
 ---
 Löysin mielenkiintoista avointa dataa pyöräparkeista/-telineistä ja pyörien pysäköinnistä.
 
-![pyorapaikat](pyorapaikat.jpg)
+![pyöräpaikat](pyorapaikat.jpg)
 
 Näistäkin huomataan, että etenkin keskusta-alueella pyörille ei ole riittävästi telineitä!
 
