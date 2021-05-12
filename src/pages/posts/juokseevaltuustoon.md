@@ -5,7 +5,7 @@ layout: index.html
 topics: ehdolla juoksu
 dateString: '14.4.2021'
 ---
-
+![juoksutakki](/assets/juoksutakki.jpg)
 Rakkaiden harrastusten yhdistäminen uudella juoksutakilla ja paras kampanjamuoto: sadat treenikilometrit ja näkyvä liikkuva mainostaulu samassa paketissa.
 
 Matti Vähä-Heikkilä: Running for Turku City Council
