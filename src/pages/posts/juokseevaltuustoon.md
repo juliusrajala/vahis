@@ -1,5 +1,5 @@
 ---
-title: Liikkuva mainostaulu: Juoksee valtuustoon
+title: "Liikkuva mainostaulu: Juoksee valtuustoon"
 draft: false
 layout: index.html
 topics: ehdolla,juoksu
