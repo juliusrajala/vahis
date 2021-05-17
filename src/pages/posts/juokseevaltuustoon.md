@@ -2,7 +2,7 @@
 title: "Liikkuva mainostaulu: Juoksee valtuustoon"
 draft: false
 layout: index.html
-topics: ehdolla, juoksu
+topics: ehdolla juoksu
 dateString: '14.4.2021'
 ---
 
