@@ -2,7 +2,7 @@
 title: Äänestysnumero ja vaalien aikataulut
 draft: false
 layout: index.html
-topics: ehdolla, äänestysnumero, vaalit
+topics: ehdolla äänestysnumero vaalit
 dateString: '14.5.2021'
 ---
 
