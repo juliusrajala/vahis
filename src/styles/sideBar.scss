@@ -4,10 +4,10 @@
   display: flex;
   flex-direction: column;
   flex: 0.5;
-  min-width: 400px;
   height: 100%;
   text-align: center;
   justify-content: center;
+  max-width: 100%;
 
   &-profile {
     @include padding-box;
@@ -55,6 +55,21 @@
     }
   }
 
+  &-ImageContainer {
+    position: relative;
+
+  }
+      &-CandidateNumber {
+        font-family: "Source Sans Pro", sans-serif;
+        z-index: 2;
+        font-size: 5rem;
+        font-weight: bold;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: #53a019;
+        text-shadow:3px 3px $green;
+      }
+
   &-image {
     text-align: center;
     display: inline-block;
@@ -63,6 +78,7 @@
     height: 200px;
     overflow: hidden;
     background: #fff;
+    position: relative;
 
     img {
       width: 100%;
@@ -74,6 +90,20 @@
     font-size: 1.5rem;
     font-weight: 700;
     color: $black-54;
+  }
+
+  &-Some {
+    margin-bottom: 1rem;
+    > a {
+      margin: .5rem;
+
+      &:hover {
+        img {
+          transition: .2s ease-in-out all;
+          transform: scale(1.1);
+        }
+      }
+    }
   }
 
   &-Topics {
@@ -90,7 +120,13 @@
   }
 
   @media (max-width: 1000px), (max-device-width: 1000px) {
+    padding-left: 0;
+    padding-right: 0;
     padding-bottom: $padding-default * 10;
+
+    &-profile {
+      padding: 0;
+    }
 
     .SideBar-Topics {
       border-bottom: 5px solid $black;

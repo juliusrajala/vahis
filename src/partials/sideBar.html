@@ -1,14 +1,23 @@
 <div class="SideBar">
   <div class="SideBar-profile">
-    <span class="SideBar-image"><img src="/assets/profile.jpg"></span>
+    <div class="SideBar-ImageContainer">
+      <span class="SideBar-image"><img src="/assets/profile.jpg"></span>
+    </div>
+    <span class="SideBar-CandidateNumber">467</span>
     <div class="SideBar-Name">
       <strong>Matti</strong>
       <strong>Vähä-Heikkilä, DI</strong>
     </div>
-    <span class="SideBar-number"></span>
     <span class="SideBar-Extra">Turun kaupunginvaltuutettu, IT-projektipäällikkö - TEK</span>
     <span class="SideBar-Extra">Juoksija ja maailmaa tutkiva datafani</span>
     <span class="SideBar-party"><img src="/assets/vihreat.png"></span>
+    <span class="SideBar-Extra">Sosiaalinen media:</span>
+    <div class="SideBar-Some">
+      <a href="https://www.facebook.com/mvahaheikkila" target="_blank"><img src="/assets/facebook.svg" /></a>
+      <a href="https://www.linkedin.com/in/mvahaheikkila/" target="_blank"><img src="/assets/linkedin.svg" /></a>
+      <a href="https://www.instagram.com/mattivahis/" target="_blank"><img src="/assets/instagram.svg" /></a>
+      <a href="https://twitter.com/mattivahis" target="_blank"><img src="/assets/twitter.svg" /></a>
+    </div>
   </div>
   {{#with topics as |topicList|}}
   <div class="SideBar-Topics">

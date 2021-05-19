@@ -6,7 +6,7 @@ $serif: "Noto Serif", serif;
 $padding-default: 10px;
 
 $green: #61bf1a;
-$light: #c8d6e5;
+$light: #f0f4f8;
 $black: #2f2f2f;
 $black-54: rgba(#2f2f2f, 0.84);
 
@@ -45,19 +45,17 @@ html {
   margin-right: auto;
 
   @media (max-width: 1200px), (max-device-width: 1200px) {
-    padding-left: $padding-default;
-    padding-right: $padding-default;
+    padding: 10px 0px;
   }
 
   @media (max-width: 1000px), (max-device-width: 1000px) {
-    @include padding-box(10);
     padding-top: $padding-default;
     flex-direction: column-reverse;
   }
 
   @media (max-width: 750px), (max-device-width: 750px) {
-    padding-left: $padding-default;
-    padding-right: $padding-default;
+    padding: 10px 0px;
+
   }
 }
 
@@ -104,7 +102,7 @@ h3.BlogPost-Time {
 
 .BlogPost {
   @include padding-box(4);
-  border-radius: 4px;
+  border-radius: 2px;
   display: flex;
   flex-direction: column;
   background-color: $light;
@@ -141,15 +139,27 @@ h3.BlogPost-Time {
     font-size: 1.3rem;
     color: $black-54;
   }
+  @media (max-width: 1000px), (max-device-width: 1000px) {
+    padding: 10px;
+  }
 }
 
 .Navigation {
   @include padding-box(2);
   max-width: 1600px;
-  text-align: right;
   padding-right: 200px;
+  padding-left: 100px;
   margin-left: auto;
   margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  > p {
+    flex: 1;
+    font-size: 1.2rem;
+    font-family: $sans;
+  }
 
   &-Item {
     @include padding-box(2);
@@ -167,5 +177,9 @@ h3.BlogPost-Time {
 
   @media (max-width: 1200px), (max-device-width: 1200px) {
     padding-right: 10px;
+    padding-left: 10px;
+    > p {
+      display: none;
+    }
   }
 }
