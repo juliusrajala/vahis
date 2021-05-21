@@ -15,7 +15,7 @@ Tein kaupunginvaltuustolle aloitteen pienydinvoiman käytön selvittämisestä k
 
 [Tsekkaa valtuustoaloite ja perustelut tästä](https://www.turunvihreat.fi/valtuustoaloite-matti-vaha-heikkila-selvitys-kasvihuonepaastojen-vahentamiseen-turussa-ja-turun-seudulla-smr-teknologialla/)
 
-[Svenska Yle](https://svenska.yle.fi/artikel/2018/07/04/behover-abo-ett-eget-minikarnkraftverk-politiker-vill-utreda-fragan)
+[Svenska Yle teki laajemman jutun aiheesta](https://svenska.yle.fi/artikel/2018/07/04/behover-abo-ett-eget-minikarnkraftverk-politiker-vill-utreda-fragan)
 
 Kyseessä olisi niin sanotut SMR-voimalat (Small Modular Reactor). Tavoitteena olisi tyyppihyväksytyt pienet reaktorit, jotka voitaisiin asentaa esimerkiksi vanhojen kaukolämpövoimaloiden polttokattiloiden tilalle. SMR-voimaloiden ehdoton hyöty olisi sarjavalmistuksessa. Vertauksena: ei jokaista junaakaan tehdä prototyyppinä, vaan niitä tuotetaan samaa mallia useita. Prototyyppivoimalat (esim. surullisen kuuluisa Olkiluoto-3) ovat tuottaneet lukuisia harmaita hiuksia ja hintalappuun uusia rivejä. Vastaavia hankkeita ei haluta lisää. Näin muuten Vihreiden poliittinen tavoiteohjelmakin nykyään linjaa:
 
