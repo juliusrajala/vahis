@@ -10,5 +10,5 @@ dateString: '25.5.2021'
 ⭐Eeppistä drone contentia ja taattua Sami Nieminen-laatua. 🔥
 ⭐Nyt on vaihtoehdot Vähis! Äänestä 467!
 
-Vaalivideo Youtubessa:
-https://www.youtube.com/watch?v=qQ1vcG_83LQ
+[Vaalivideo Youtubessa](https://www.youtube.com/watch?v=qQ1vcG_83LQ)
+
