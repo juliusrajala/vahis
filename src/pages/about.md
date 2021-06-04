@@ -31,6 +31,6 @@ About Matti Vähä-Heikkilä, running for Turku city council with the nuber 467.
  
 I am a candidate for the Greens, but I strongly support usage of nuclear power. In this respect, I differ from many Greens. I have made a council initiative about Small Modular Reactors (SMR) in 2018. I believe in new technology and I believe it will solve many of our problems as a nation.
 
-You can vote with a face mask on and with a valid photo ID! Polling stations (in advance 26.5.-8.6.): [Voting places](https://ah.turku.fi/kuulutukset/Images/1953367.pdf)
+You can vote with a face mask on and with a valid photo ID! [Voting places](https://ah.turku.fi/kuulutukset/Images/1953367.pdf) (in advance 26.5.-8.6.)
 
 Matti Vähä-Heikkilä 467
