@@ -14,7 +14,7 @@ About Matti Vähä-Heikkilä, running for Turku city council with the nuber 467.
 - Current city councillor (since 2017-)
 - And I want to continue working to improve Turku
 
-What is important in Turku
+## What is important in Turku
 1) Turku should be developed more like a big city, not like a small town.
 
 2) We can't forget that Turku has two universities and they are important for Turku.
