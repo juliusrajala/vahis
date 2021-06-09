@@ -6,7 +6,7 @@ layout: page.html
 
 # Matti Vähä-Heikkilä
 
-Olen turkulainen 32-vuotias diplomi-insinööri, IT-projektipäällikkö ja elinikäinen oppija. Juureni sijoittuvat Satakunnan sydämeen, Kokemäelle. Päädyin sattumalta Turkuun opiskelemaan. Olen pitänyt ajastani täällä. Turku on hyvä kaupunki, mutta voimme tehdä siitä yhdessä entistä paremman.
+Olen turkulainen 32-vuotias diplomi-insinööri, IT-projektipäällikkö, elinikäinen oppija ja harrastan kestävyysjuoksua. Juureni sijoittuvat Satakunnan sydämeen, Kokemäelle. Päädyin sattumalta Turkuun opiskelemaan. Olen pitänyt ajastani täällä. Turku on hyvä kaupunki, mutta voimme tehdä siitä yhdessä entistä paremman.
 
 Koko opiskeluajan olen ollut mukana äärettömän aktiivisesti järjestötoiminnassa. Yhteisön asioiden edistämisestä on tullut itselle ensin harrastus ja myöhemmin jotain vielä tätäkin enemmän. Oppia on tarttunut kymmenien eri luottamustoimien kautta niin paikallisesti kuin valtakunnallisestikin. Olen keskustelija ja innostun todella helposti asioista. Pidän kuitenkin aina mielessä, että pelkän asioista puhumisen sijaan tärkeämpää on sekä niiden kehittäminen että käytäntöön asti vieminen. Koen, että itselläni on mittaamattoman paljon annettavaa sekä yhteisölleni että yhteisön kaupungille – Turulle.
 
