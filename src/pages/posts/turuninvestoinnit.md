@@ -28,8 +28,10 @@ Tilanne näyttää entistä heikommalta, mikäli toteutuneita bruttoinvestointej
 
 ![investoinnit2](/assets/investoinnit2.JPG)
 
-Kuten olen aiemminkin todennut, mielestäni investointeihin ja vetovoimatekijöihin kaupunki voi ottaa lainarahaa. Investoinnit pidemmällä aikavälillä tuovat euroja kaupunkiin. Onkin syytä siis tarkastella lainojen määrää tällä hetkellä kaupungeittain. Voimme todeta, että Turun lainakanta ei vertailussa ole mitenkään katastrofaalinen, kuten joissakin yhteyksissä annetaan ymmärtää. Lahdessa, Espoossa, Kuopiossa ja Tampereella on lainaa enemmän asukasta kohden. Suurista kaupungeista myös Oulu ja Vantaa ovat vain reilun prosentin sisällä Turun luvuista. Turulla ei siis ole mitenkään poikkeuksellisen paljon velkaa.
+Kuten olen aiemminkin todennut, mielestäni investointeihin ja vetovoimatekijöihin kaupunki voi ottaa lainarahaa. Investoinnit pidemmällä aikavälillä tuovat euroja kaupunkiin. Onkin syytä siis tarkastella lainojen määrää tällä hetkellä kaupungeittain. 
 
 ![investoinnit3](/assets/investoinnit3.JPG)
+
+Voimme todeta, että Turun lainakanta ei vertailussa ole mitenkään katastrofaalinen, kuten joissakin yhteyksissä annetaan ymmärtää. Lahdessa, Espoossa, Kuopiossa ja Tampereella on lainaa enemmän asukasta kohden. Suurista kaupungeista myös Oulu ja Vantaa ovat vain reilun prosentin sisällä Turun luvuista. Turulla ei siis ole mitenkään poikkeuksellisen paljon velkaa.
 
 Kuntavaaleissa valitaan suunta kaupungille seuraavan neljän vuoden ajaksi. Valitse ehdokas, joka suhtautuu kaupungin investointeihin rakentavasti, mikäli Turun tulevaisuus ja kehitys ovat sinullekin tärkeitä.
