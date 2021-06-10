@@ -16,3 +16,16 @@ Vuoden 2020 arviointikertomus tulee istuvan valtuuston käsittelyyn ensi maanant
 https://app.powerbi.com/view?r=eyJrIjoiNWMwYzJlYjktMjBiOC00NzAyLTg1ZmEtNzBiMGI3ZDMxNzQzIiwidCI6IjQzNmU1ZDYxLTFhZGEtNDM4ZS05MDFjLTVlNzM5OGE1MWMxZiIsImMiOjh9)! Tämä herätti heti mielenkiintoni!
 
 Olin iloissani tästä lisäyksestä raporttiin, mutta ikäväkseni huomasin niistä, että Turku investoi (Tilinpäätös 2020) kaupunkina jopa vähemmän kuin esimerkiksi Lahti tai Kuopio. Itse peräänkuulutan kaupungin vetovoimaa ja sen vaatimia investointeja. 
+
+![investoinnit1](/assets/investoinnit1.jpg)
+
+Edellä ovat myös Helsinki, Espoo, Vantaa, Tampere ja Oulu. Toivoisin kovasti, että Turku yrittäisi olla jatkossakin kehittyvä sekä houkutteleva kaupunki. Muutoin meillä on vain hävittävää, kun kaupunkien välillä ihmiset miettivät pidemmän aikavälin sijoittautumistaan ja elämäänsä. Kuntavaaleissa valitaan suunta kaupungille seuraavan neljän vuoden ajaksi. Valitse ehdokas, joka suhtautuu kaupungin investointeihin rakentavasti, mikäli Turun tulevaisuus ja kehitys ovat sinullekin tärkeitä.
+
+Tilanne näyttää entistä heikommalta, mikäli toteutuneita bruttoinvestointeja (tilinpäätös 2020) verrataan kaupungin asukaslukuun suhteutettuna. Tällöin huomataan, että Jyväskylä ja Porikin kiiruhtavat Turun ohi.
+
+
+![investoinnit2](/assets/investoinnit2.jpg)
+
+Kuten olen aiemminkin todennut, mielestäni investointeihin ja vetovoimatekijöihin kaupunki voi ottaa lainaa. Nämä pidemmällä aikavälillä tuovat euroja kaupunkiin. Onkin syytä siis tarkastella lainojen määrää. Voimme todeta, että Turun lainakanta ei vertailussa ole mitenkään katastrofaalinen, kuten joissakin yhteyksissä annetaan ymmärtää. Lahdessa, Espoossa, Kuopiossa ja Tampereella on lainaa enemmän asukasta kohden. Suurista kaupungeista myös Oulu ja Vantaa ovat reilun prosentin sisällä Turun luvuista.
+
+![investoinnit3](/assets/investoinnit3.jpg)
