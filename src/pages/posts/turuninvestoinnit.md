@@ -19,13 +19,15 @@ Olin iloissani tästä lisäyksestä raporttiin, mutta ikäväkseni huomasin nii
 
 ![investoinnit1](/assets/investoinnit1.JPG)
 
-Edellä ovat myös Helsinki, Espoo, Vantaa, Tampere ja Oulu. Toivoisin kovasti, että Turku yrittäisi olla jatkossakin kehittyvä sekä houkutteleva kaupunki. Muutoin meillä on vain hävittävää, kun kaupunkien välillä ihmiset miettivät pidemmän aikavälin sijoittautumistaan ja elämäänsä. Kuntavaaleissa valitaan suunta kaupungille seuraavan neljän vuoden ajaksi. Valitse ehdokas, joka suhtautuu kaupungin investointeihin rakentavasti, mikäli Turun tulevaisuus ja kehitys ovat sinullekin tärkeitä.
+Edellä ovat myös Helsinki, Espoo, Vantaa, Tampere ja Oulu. Toivoisin kovasti, että Turku yrittäisi olla jatkossakin kehittyvä sekä houkutteleva kaupunki. Muutoin meillä on vain hävittävää, kun kaupunkien välillä ihmiset miettivät pidemmän aikavälin sijoittautumistaan ja elämäänsä.
 
 Tilanne näyttää entistä heikommalta, mikäli toteutuneita bruttoinvestointeja (tilinpäätös 2020) verrataan kaupungin asukaslukuun suhteutettuna. Tällöin huomataan, että Jyväskylä ja Porikin kiiruhtavat Turun ohi.
 
 
 ![investoinnit2](/assets/investoinnit2.JPG)
 
-Kuten olen aiemminkin todennut, mielestäni investointeihin ja vetovoimatekijöihin kaupunki voi ottaa lainaa. Nämä pidemmällä aikavälillä tuovat euroja kaupunkiin. Onkin syytä siis tarkastella lainojen määrää. Voimme todeta, että Turun lainakanta ei vertailussa ole mitenkään katastrofaalinen, kuten joissakin yhteyksissä annetaan ymmärtää. Lahdessa, Espoossa, Kuopiossa ja Tampereella on lainaa enemmän asukasta kohden. Suurista kaupungeista myös Oulu ja Vantaa ovat reilun prosentin sisällä Turun luvuista.
+Kuten olen aiemminkin todennut, mielestäni investointeihin ja vetovoimatekijöihin kaupunki voi ottaa lainarahaa. Investoinnit pidemmällä aikavälillä tuovat euroja kaupunkiin. Onkin syytä siis tarkastella lainojen määrää tällä hetkellä kaupungeittain. Voimme todeta, että Turun lainakanta ei vertailussa ole mitenkään katastrofaalinen, kuten joissakin yhteyksissä annetaan ymmärtää. Lahdessa, Espoossa, Kuopiossa ja Tampereella on lainaa enemmän asukasta kohden. Suurista kaupungeista myös Oulu ja Vantaa ovat vain reilun prosentin sisällä Turun luvuista. Turulla ei siis ole mitenkään poikkeuksellisen paljon velkaa.
 
 ![investoinnit3](/assets/investoinnit3.JPG)
+
+Kuntavaaleissa valitaan suunta kaupungille seuraavan neljän vuoden ajaksi. Valitse ehdokas, joka suhtautuu kaupungin investointeihin rakentavasti, mikäli Turun tulevaisuus ja kehitys ovat sinullekin tärkeitä.
