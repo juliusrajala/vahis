@@ -8,7 +8,9 @@ dateString: '10.6.2021'
 
 Tarkastuslautakunta tuottaa vuosittain laadukkaan selonteon ajatuksella “Miten meillä menee kaupunkina?”
 
-Tämän raportin nimi on arviointikertomus ja sitä valmistellaan huolellisesti pitkin vuotta. Tiedän itse arvioinnin perusteellisuuden, sillä toimin tarkastuslautakunnan puheenjohtajana vuosina 2017-2019. Mikäli järjestömaailma eri toimihenkilöineen on tuttu, niin vertausta voi hakea yhdistyksen toiminnan-/tilintarkastajasta. Kaupungin kohdalla budjetit ja toiminta vain on monia kertaluokkia suurempaa: siksi arviointia tekee kokonainen lautakunta reviisiotoimiston kaupungin työntekijöiden ohella.
+Tämän raportin nimi on arviointikertomus ja sitä valmistellaan huolellisesti pitkin vuotta. Tiedän itse arvioinnin perusteellisuuden, sillä toimin tarkastuslautakunnan puheenjohtajana vuosina 2017-2019.
+
+Mikäli järjestömaailma eri toimihenkilöineen on tuttu, niin vertausta voi hakea yhdistyksen toiminnan-/tilintarkastajasta. Kaupungin kohdalla budjetit ja toiminta vain on monia kertaluokkia suurempaa: siksi arviointia tekee kokonainen lautakunta reviisiotoimiston kaupungin työntekijöiden kanssa.
 
 [Tarkastuslautakunnan julkaisut](https://www.turku.fi/tarkastuslautakunnanjulkaisut)
 
