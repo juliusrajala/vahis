@@ -6,7 +6,7 @@ layout: page.html
 
 # About Vähis
 
-About Matti Vähä-Heikkilä, running for Turku city council with the nuber 467.
+About Matti Vähä-Heikkilä, running for Turku city council with the number 467.
 
 - 32 years old
 - Master of Science in Technology (IT)
