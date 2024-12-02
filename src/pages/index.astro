@@ -50,7 +50,7 @@ const posts = (await getCollection("blog"))
 					posts.map((post) => (
 						<div class="post">
 							<h5>
-								<a href={`/blog/${post.slug}`}>{post.data.title}</a>
+								<a href={`/blog/${post.slug}.html`}>{post.data.title}</a>
 							</h5>
 							<p>{post.data.description}</p>
 							<span>
