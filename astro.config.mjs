@@ -7,5 +7,8 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
 	site: 'https://mattivaha-heikkila.fi',
 	integrations: [mdx(), sitemap()],
-	prefetch: true
+	prefetch: true,
+	build: {
+		format: 'file',
+	}
 });
