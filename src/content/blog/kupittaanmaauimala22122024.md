@@ -2,7 +2,7 @@
 title: "Kupittaan maauimalan tulevaisuus: ratkaisu datakeskuksesta?"
 draft: false
 topics: datakeskus ekologisuus lämmitys liikunta
-description: "Kirjoitin Turun Sanomiin siitä, että tulisi selvittää, voisiko datakeskuksen hukkalämmöllä lämmittää Kupittaan maauimalaa"
+description: "Kirjoitin Turun Sanomiin siitä, että tulisi selvittää, voisiko datakeskuksen hukkalämmöllä lämmittää Kupittaan maauimalaa."
 heroImage: '/placeholder.jpg'
 pubDate: 'Dec 22 2024'
 ---
