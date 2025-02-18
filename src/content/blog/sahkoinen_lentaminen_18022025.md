@@ -3,7 +3,7 @@ title: "Turku sähköisen lentoliikenteen kärkeen?"
 draft: false
 topics: lentoliikenne fossiiliset sähköistyminen teknologia
 description: "Lentoliikenne ei tule vähenemään, joten Turun lentokentän pitää olla ensimmäisten joukossa sähköistä lentämistä tukevia sijaintinsa vuoksi."
-heroImage: '/etaisyydet_turusta.png'
+heroImage: '/placeholder.jpg'
 pubDate: 'Feb 18 2025'
 ---
 
