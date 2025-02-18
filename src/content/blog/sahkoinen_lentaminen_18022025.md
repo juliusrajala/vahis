@@ -9,13 +9,13 @@ pubDate: 'Feb 18 2025'
 
 Turku voisi olla edelläkävijä uuden ajan lentoliikenteessä. Sähkölentokoneet ovat nousemassa merkittäväksi osaksi tulevaisuuden ilmailua, ja niiden kehitys tarjoaa ainutlaatuisen mahdollisuuden kaupungille, joka haluaa yhdistää kestävän kehityksen, innovatiivisuuden ja vahvat yhteydet.
 
-### Ympäristöystävällinen ja hiljaisempi lentoliikenne
+##### Ympäristöystävällinen ja hiljaisempi lentoliikenne
 Sähkölentokoneet vähentävät merkittävästi hiilidioksidipäästöjä, melua ja paikallisia ilmanlaatuongelmia verrattuna perinteisiin lentokoneisiin. Koska lentomatkustamisen tarve tuskin vähenee, sähköinen ilmailu tarjoaa tavan kehittää vastuullisempia matkustusmuotoja ja lisätä samalla matkailua myös Turkuun.
 
-### Turun strateginen sijainti ja matkaketjut
+##### Turun strateginen sijainti ja matkaketjut
 Turun sijainti Suomen lounaiskulmassa tekee kaupungista luonnollisen solmukohdan Eurooppaan suuntautuvalle liikenteelle. Sijainti on strateginen Itämeren ja Tukholman läheisyyden takia. Kun tulevaisuudessa Länsirata yhdistetään sähköiseen lentoliikenteeseen, mahdollisuudet sujuviin ja ympäristöystävällisiin matkaketjuihin kotimaasta Eurooppaan paranevat merkittävästi.
 
-### Taloudelliset ja innovaatiopotentiaalit
+##### Taloudelliset ja innovaatiopotentiaalit
 Sähköisen lentoliikenteen edistäminen voi houkutella alueelle investointeja, tutkimusta ja uusia yrityksiä. Tämä tarkoittaa myös mahdollisuuksia uusille työpaikoille sekä matkailun ja teollisuuden elinvoiman kasvulle.
 
 Ruotsalainen Heart Aerospace [1] suunnittelee sähköisen 30-paikkaisen ES-30 -lentokoneensa tyyppihyväksyntää vuonna 2029. Kyseinen malli pystyisi lentämään täysin sähköisesti 200km matkan tai hybridinä 800km matkan. Kokonaan sähköinen toimintasäde tulee tästä varmasti lähivuosina nousemaan. Turun lentokentältä Tukholman Arlandaan on 260 kilometriä. Eli matka Eurooppaan alkaisi 2030-luvulla sähköisesti Turusta Tukholmaan tai nykyisiä lentokoneita vähäpäästöisemmin hybridinä Turusta Kööpenhaminaan. Näistä kohteista matka voisi jatkua eteenpäin uudella lennolla tai suoraan Euroopan kattavan raideverkon välityksellä täysin päästöttömästi.
@@ -27,7 +27,7 @@ Näiden etujen saavuttamiseksi olen tehnyt myös kaupunginvaltuustossa aloitteen
 
 On aika palauttaa Turku siihen rooliin, joka sillä on ollut jo 800 vuoden ajan: Suomen portiksi Eurooppaan – tällä kertaa ympäristöystävällisesti, innovatiivisesti ja tulevaisuuteen katsoen.
 
-Matti Vähä-Heikkilä  
+**Matti Vähä-Heikkilä**  
 Kaupunginvaltuutettu (vihr.)  
 diplomi-insinööri, kehityspäällikkö
 
