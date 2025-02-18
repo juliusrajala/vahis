@@ -20,7 +20,7 @@ Sähköisen lentoliikenteen edistäminen voi houkutella alueelle investointeja, 
 
 Ruotsalainen Heart Aerospace [1] suunnittelee sähköisen 30-paikkaisen ES-30 -lentokoneensa tyyppihyväksyntää vuonna 2029. Kyseinen malli pystyisi lentämään täysin sähköisesti 200km matkan tai hybridinä 800km matkan. Kokonaan sähköinen toimintasäde tulee tästä varmasti lähivuosina nousemaan. Turun lentokentältä Tukholman Arlandaan on 260 kilometriä. Eli matka Eurooppaan alkaisi 2030-luvulla sähköisesti Turusta Tukholmaan tai nykyisiä lentokoneita vähäpäästöisemmin hybridinä Turusta Kööpenhaminaan. Näistä kohteista matka voisi jatkua eteenpäin uudella lennolla tai suoraan Euroopan kattavan raideverkon välityksellä täysin päästöttömästi.
 
-![Ranget](/assets/etaisyydet_turusta.png)
+![Ranget](/etaisyydet_turusta.png)
 [3] Kuvassa havainnollistettu 200km ja 800km etäisyydet, kun keskipisteenä on Turun lentokenttä.
 
 Näiden etujen saavuttamiseksi olen tehnyt myös kaupunginvaltuustossa aloitteen, jossa esitetään konkreettisia toimia Turun lentokentän nostamiseksi sähköisen lentoliikenteen edelläkävijäksi [2]. Aloitteessa ehdotetaan muun muassa selvityksiä infrastruktuurin kehittämisestä, yhteistyötä alan toimijoiden kanssa sekä Turun profiloimista uuden teknologian suunnannäyttäjäksi niin Suomessa kuin kansainvälisesti.
@@ -31,5 +31,7 @@ Matti Vähä-Heikkilä
 Kaupunginvaltuutettu (vihr.), diplomi-insinööri, kehityspäällikkö
 
 [1] http://heartaerospace.com/es-30/ 
+
 [2] https://www.turku.fi/paatoksenteko/kaupunginvaltuusto/aloite/hae/2325476
+
 [3] Kuva: https://www.mapdevelopers.com/draw-circle-tool.php 
