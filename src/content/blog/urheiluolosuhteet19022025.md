@@ -3,7 +3,7 @@ title: "Turku liikkuu eteenpäin - nyt tarvitaan panostuksia liikuntapaikkoihin"
 draft: false
 topics: liikuntapaikat investoinnit liikunta
 description: "Turussa täytyy investoida liikuntapaikkoihin merkittävästi enemmän, jotta hyvinvoinnin määrä kaupungissa voisi lisääntyä. Kirjoitimme tästä yhteistyössä liikuntalautakunnan puheenjohtajan kanssa."
-heroImage: '/placeholder.jpg'
+heroImage: '/kirjasto.jpg'
 pubDate: 'Feb 19 2025'
 ---
 
