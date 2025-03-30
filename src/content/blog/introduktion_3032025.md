@@ -1,5 +1,5 @@
 ---
-title: "Mutta kuka on Matti Vähä-Heikkilä?"
+title: "Men vem är Matti Vähä-Heikkilä?"
 draft: false
 topics: introduktion 
 description: "Jag heter Matti Vähä-Heikkilä, är stadsfullmäktigeledamot i Åbo för andra perioden och kandidat i kommunalvalet med nummer 642. Roligt att du hittade hit för att läsa mer om mina tankar!"
