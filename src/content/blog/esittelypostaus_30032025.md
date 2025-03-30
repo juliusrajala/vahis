@@ -27,7 +27,7 @@ Toimin parhaillaan seuraavissa luottamustehtävissä kaupunginvaltuuston ja liik
 
 
 #### Harrastukset
-Harrastan politiikan lisäksi hyvin intohimoisesti kestävyysjuoksua ja lukemista. Pidän erityisesti puolimaratoneista ja maratoneista. Toimin myös Vauhtisammakko-juoksukoulun ohjaajana, sillä haluan auttaa muita nauttimaan juoksemisesta yhtä paljon. Luen enimmäkseen non-fiction -kirjoja, mutta otan mukaan ajoittain kaunokirjallisuuttakin. Tiedonjanoni tuntuu sammumattomalta, joten luen noin kirjan viikossa.
+Harrastan politiikan lisäksi hyvin intohimoisesti kestävyysjuoksua ja lukemista. Pidän erityisesti puolimaratoneista ja maratoneista. Toimin myös Vauhtisammakko-juoksukoulun ohjaajana, sillä haluan auttaa muita nauttimaan juoksemisesta yhtä paljon. Luen enimmäkseen non-fiction -kirjoja, mutta otan ajoittain mukaan kaunokirjallisuuttakin. Tiedonjanoni tuntuu sammumattomalta, joten luen noin kirjan viikossa.
 
 Ota yhteyttä, jos haluat kuulla jostakin lisää! Minua voit äänestää numerolla 642.
 
