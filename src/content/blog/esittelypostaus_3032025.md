@@ -3,7 +3,7 @@ title: "Mutta kuka on Matti Vähä-Heikkilä?"
 draft: false
 topics: esittely kuntavaaliehdokas
 description: "Olen Matti Vähä-Heikkilä, toisen kauden Turun kaupunginvaltuutettu ja kuntavaaliehdokas numerolla 642. Lue lyhyt esittelyni tästä!"
-heroImage: '/kirjasto.jpg'
+heroImage: '/esittely.jpg'
 pubDate: 'Mar 30 2025'
 ---
 
