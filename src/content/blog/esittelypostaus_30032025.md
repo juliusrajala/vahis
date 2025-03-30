@@ -7,7 +7,7 @@ heroImage: '/esittely.jpg'
 pubDate: 'Mar 30 2025'
 ---
 
-Hei! Olen Matti Vähä-Heikkilä, toisen kauden Turun kaupunginvaltuutettu ja kuntavaaliehdokas numerolla 642. Hienoa, että löysit tänne lukemaan ajatuksistani lisää!
+Olen Matti Vähä-Heikkilä, toisen kauden Turun kaupunginvaltuutettu ja kuntavaaliehdokas numerolla 642. Hienoa, että löysit tänne lukemaan ajatuksistani lisää!
 
 #### Toimintatavat ja tausta
 Opiskelin Turun yliopistossa tietotekniikan diplomi-insinööriksi ja opiskeluaika antoi minulle paljon muutakin kuin tutkinnon. Se antoi elinikäisiä ystäviä, yhteiskunnallisesti aktiivisen asenteen ja kyvyn katsoa eteenpäin: nähdä iso kuva. Toimin hyvin aktiivisesti opiskelijajärjestöissä ja tuo toiminta tuntui erittäin merkitykselliseltä. Korkeakoulutettujen asema ja työllistyminen on sydäntäni lähellä juuri tätä kautta. Turku olisi hyvin laimea versio itsestään ilman sen korkeakouluja, niiden opiskelijoita ja alumneja.
